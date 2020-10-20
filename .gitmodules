@@ -1,3 +1,4 @@
 [submodule "Di-framework"]
 	path = Di-framework
 	url = https://github.com/MorrisHong/Di-framework.git
+	branch = v2
